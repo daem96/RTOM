@@ -1,0 +1,14 @@
+{
+    "item-creature-tame-fox-male": "Лис (самец)",
+    "item-creature-tame-fox-female": "Лис (самка)",
+    "item-creature-tame-fox-arctic-male": "Арктический лис (самец)",
+    "item-creature-tame-fox-arctic-female": "Арктический лис (самка)",
+    "item-creature-tame-fox-pup-forest": "Лис (лисенок)",
+    "item-creature-tame-fox-pup-arctic": "Арктический лис (лисенок)",
+    "item-dead-creature-tame-fox-male": "Мертвый лис (самец)",
+    "item-dead-creature-tame-fox-female": "Мертвый лис (самка)",
+    "item-dead-creature-tame-fox-arctic-male": "Мертвый арктический лис (самец)",
+    "item-dead-creature-tame-fox-arctic-female": "Мертвый арктический лис (самка)",
+    "item-dead-creature-tame-fox-pup-forest": "Мертвый лис (лисенок)",
+    "item-dead-creature-tame-fox-pup-arctic": "Мертвый арктический лис (лисенок)"
+}

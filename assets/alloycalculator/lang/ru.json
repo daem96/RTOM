@@ -1,0 +1,11 @@
+{
+  "Alloy Calculator": "Калькулятор Сплавов",
+  "Alloy": "Сплав",
+  "Current": "Текущий",
+  "Units": "Единицы",
+  "Locked": "Заблокировано",
+  "TextInputError": "Минимальное значение 100, что равно 1 слитку",
+  "Each nugget is equal to 5 units": "Каждый самородок равен 5 единицам",
+  "Required nuggets": "Требуемые самородки",
+  "Open 'Alloy Calculator'": "Открыть 'Калькулятор Сплавов'"
+}

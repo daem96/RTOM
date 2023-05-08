@@ -1,0 +1,11 @@
+{
+    "type": "Content",
+    "modid": "rts",
+    "name": "Russian translations",
+    "authors": ["Eden_Grail"],
+    "description": "Russian translation for Grail Inc. server.",
+    "version": "0.1",
+    "dependency": {
+        "game": "1.18.1"
+    }
+}

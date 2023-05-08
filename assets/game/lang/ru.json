@@ -1,0 +1,37 @@
+{
+    "prefixandcreature-aurochsmale": "an angry Aurochs",
+    "prefixandcreature-aurochsfemale": "an angry Aurochs",
+    "heldhelp-headlantern-rightclick": "Переключить свет",
+    "heldhelp-bags-rightclick": "Надеть",
+    "tabname-awearablelight": "A Wearable Light",
+
+    "warmth-bouse": "Warmth bouse: {0:0.#}°C",
+    "heldfailure-armor-wear": "Вы не можете носить его с защитным шлемом.",
+    "heldfailure-clothes-wear": "Вы не можете носить его с налобным фонарем",
+
+    "recipeingredient-item-herbbundle-basil-insturmentalcase": "базиликом",
+    "recipeingredient-item-herbbundle-chamomile-insturmentalcase": "ромашкой",
+    "recipeingredient-item-herbbundle-cilantro-insturmentalcase": "кинзой",
+    "recipeingredient-item-herbbundle-lavender-insturmentalcase": "лавандой",
+    "recipeingredient-item-herbbundle-marjoram-insturmentalcase": "майораном",
+    "recipeingredient-item-herbbundle-mint-insturmentalcase": "мятой",
+    "recipeingredient-item-herbbundle-saffron-insturmentalcase": "шафраном",
+    "recipeingredient-item-herbbundle-sage-insturmentalcase": "шалфеем",
+    "recipeingredient-item-herbbundle-thyme-insturmentalcase": "тимьяном",
+
+    "meal-ingredient-soup-primary-herbbundle-basil": "Базилик",
+    "meal-ingredient-soup-primary-herbbundle-chamomile": "Ромашка",
+    "meal-ingredient-soup-primary-herbbundle-cilantro": "Кинза",
+    "meal-ingredient-soup-primary-herbbundle-lavender": "Лаванда",
+    "meal-ingredient-soup-primary-herbbundle-marjoram": "Майоран",
+    "meal-ingredient-soup-primary-herbbundle-mint": "Мята",
+    "meal-ingredient-soup-primary-herbbundle-saffron": "Шафран",
+    "meal-ingredient-soup-primary-herbbundle-sage": "Шалфей",
+    "meal-ingredient-soup-primary-herbbundle-thyme": "Тимьян",
+
+    "block-muddygravel-*": "Грязный гравий",
+
+    "block-sapling-ferntree-*": "Саженец папоротника",
+
+    "block-seaweed-top": "Обрезки морских водорослей"
+}

@@ -1,0 +1,19 @@
+{
+    "msg-chisel-needed": "Для копирования требуется Зубило",
+    "msg-input-crafting-materials": "Внесите компоненты для крафта",
+    "msg-copy-chisel-block": "Скопировать резной блок",
+    "msg-copy-chiselblock-need-materials": "Для копирования понадобятся: ",
+    "msg-craftmaterials-for": "Компоненты для создания: ",
+    "dialog-extended-workbench-title": "Продвинутый верстак",
+
+    "workbench-expansion-crafting": "<a href=\"handbook://craftinginfo-expansion-workbench\">Создается на продвинутом верстаке</a>",
+    "workbench-expansion-crafting-title": "Создается на продвинутом верстаке",
+
+    "block-scaffold-*-north": "Строительные леса",
+    "block-scaffold-up-north": "Строительные леса",
+    "block-workbenchextended-*-north": "Продвинутый верстак",
+    "block-chiselplasterfency-diagonal-ud": "Обрабатываемая штукатурка (брусья по-диагонали)",
+    "block-chiselplasterfency-stripes-ud": "Обрабатываемая штукатурка (параллельные брусья)",
+    "block-chiselplasterplain-plain": "Обрабатываемая штукатурка (обычная)",
+    "block-chiselplasterplain-square": "Обрабатываемая штукатурка (брусья квадратом)"
+}

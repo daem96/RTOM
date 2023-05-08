@@ -1,0 +1,10 @@
+{
+  "blockhelp-pickup": "Carry",
+  "drop-notice": "Вы сбросили {0} со своего {1}.",
+  "drop-notice-destroyed": "Вы сбросили {0} со своего {1}, и он был уничтожен.",
+  "drop-notice-destroyed-spill-contents": "Вы сбросили {0} со своего {1}, и он был уничтожен, рассыпав содержимое.",
+  "drop-notice-spill-contents": "Вы уронили {0} со своего {1}, и он разбился, рассыпав содержимое.",
+  "slot-hands": "руки",
+  "slot-back": "спина",
+  "slot-shoulder": "плечо"
+}
