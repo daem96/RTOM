@@ -1,0 +1,15 @@
+{
+    "game:tabname-millwright": "Millwright",
+    "block-windmillrotor-three-*": "Трех парусный ротор ветряка (усиленный)",
+    "block-windmillrotor-single-*": "Четырех парусный ротор ветряка (усиленный)",
+    "block-windmillrotor-six-*": "Шести парусный ротор ветряка (усиленный)",
+    "block-windmillrotor-double-*": "Восьми парусный ротор ветряка (усиленный)",
+    "item-sailcentered": "Парус (центрированный)",
+    "item-sailangled": "Парус (наклонный)",
+    "item-sailwide": "Парус (широкий)",
+    "itemdesc-sail*": "Компонент ветряной мельницы. Требуется усиленный ротор ветряной мельницы",
+    "block-brake-north": "Тормоз (усиленный)",
+    "block-woodenaxlepassthrough*": "Деревянная ось (сквозная)",
+    "blockdesc-woodenaxlepassthrough*": "Разместите по одному с каждой стороны полного блока для передачи энергии при обеспечении целостности помещения",
+    "blockdesc-suitable-block-needed": "требуется более подходящий блок для поддержки этой оси"
+}

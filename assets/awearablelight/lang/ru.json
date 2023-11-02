@@ -15,5 +15,8 @@
     "item-clothes-waist-heavy-belt-brass-lantern-off": "Латунный фонарь (не горит)",
     "item-clothes-waist-heavy-belt-brass-lantern-on": "Латунный фонарь (горит)",
 
-    "item-backpack": "Рюкзак (латунный фонарь)"
+    "item-backpack": "Рюкзак (латунный фонарь)",
+    "game:heldhelp-headlantern-rightclick": "Переключить свет",
+    "game:heldhelp-bags-rightclick": "Экипировать",
+    "game:tabname-awearablelight": "Носимые фонари"
 }

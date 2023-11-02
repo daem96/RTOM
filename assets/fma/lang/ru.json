@@ -26,5 +26,6 @@
     "fma:item-metal_fragments": "Осколки разбитого металла",
     "fma:itemdesc-item-metal_fragments": "Попробуйте разделить его на части зубилом...",
     "fma:metal_worth": "Worth {0} units of {1}.",
-    "fma:spray_cooler_text": "\n...может быть, он может охлаждать и горячие вещи?"
+    "fma:spray_cooler_text": "\n...может быть, он может охлаждать и горячие вещи?",
+    "fma:cant_recover": "<font color=\"red\">Эта часть не подлежит восстановлению.</font>"
 }

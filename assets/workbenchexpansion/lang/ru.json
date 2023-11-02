@@ -8,6 +8,7 @@
 
     "workbench-expansion-crafting": "<a href=\"handbook://craftinginfo-expansion-workbench\">Создается на продвинутом верстаке</a>",
     "workbench-expansion-crafting-title": "Создается на продвинутом верстаке",
+    "workbench-expansion-crafting-text": "<strong>Создается на продвинутом верстаке</strong><br><br><i>Для использования удерживайте правую кнопку мыши</i><br/><br/>Для копирования долбленого блока<br/> Поместите долбленый блок в слот 1, долото в слот 2 в инвентаре. Теперь посмотрите список матералов.",
 
     "block-scaffold-*-north": "Строительные леса",
     "block-scaffold-up-north": "Строительные леса",

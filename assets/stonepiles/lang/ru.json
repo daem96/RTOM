@@ -1,0 +1,15 @@
+{
+    "block-stonepile": "Stone pile",
+
+    "blockhelp-stonepile-addstone": "Добавить камни",
+    "blockhelp-stonepile-removestone": "Забрать камни",
+
+    "blockhelp-stonepile-add": "Добавить",
+    "blockhelp-stonepile-remove": "Забрать",
+
+    "blockhelp-quartzpile-addstone": "Добавить кварц",
+    "blockhelp-quartzpile-removestone": "Забрать кварц",
+
+    "blockhelp-claypile-addclay": "Добавить глину",
+    "blockhelp-claypile-removeclay": "Забрать глину"
+}

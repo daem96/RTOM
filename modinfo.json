@@ -1,11 +1,11 @@
 {
     "type": "Content",
-    "modid": "rts",
+    "modid": "rtom",
     "name": "Russian translations",
     "authors": ["Eden_Grail"],
     "description": "Russian translation for Grail Inc. server.",
-    "version": "0.1",
+    "version": "0.2",
     "dependency": {
-        "game": "1.18.1"
+        "game": "1.18.15"
     }
 }
